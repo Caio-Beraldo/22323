@@ -10,4 +10,34 @@ body{
     background-size: contain;
     background-position: center;
 } */
+#titulo{
+    text-align: center;
+    
+    
+}
+.header{
+    text-align: left;
 
+}
+.botao1 {
+    font-size: 30px;
+    text-decoration: underline;
+    
+
+}
+#videos1{
+    border: solid 5px;
+    width: 280px;
+}
+#videos2{
+    border: solid 5px;
+    width: 200px;
+}
+#videos3{
+    border: solid 5px;
+    width: 280px;
+}
+#videos4{
+    border: solid 5px;
+    width: 200px;
+}
